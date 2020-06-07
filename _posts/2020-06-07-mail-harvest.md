@@ -13,7 +13,7 @@ So, kali ini gue akan kasih tau cara mengumpulkan email yang tersedia dari sebua
 
 ## Apa itu Mail Harvesting ?
 
-Proses mengumpulkan email dari sebuah website bahasa kerennya **Mail Harvesting**. Proses ini dapat menggunakan berbagai teknik, salah satu nya yaitu _Crawling_.
+**Mail Harvesting** adalah proses mengumpulkan daftar alamat email, biasanya untuk keperluan _spamming_. Proses ini dapat menggunakan berbagai teknik, salah satu nya yaitu _Crawling_.
 
 **Crawling** sendiri merupakan sebuah istilah digunakan oleh bot search engine yang merujuk ke proses penelusuran website yang dilakukan oleh bot tersebut untuk tujuan pengideksan website.
 
@@ -23,11 +23,11 @@ Tapi, kali ini kita akan melakukan _Crawling_ untuk mengumpulkan email yang ters
 
 Sebenernya cara kerja program ini cukup sederhana :
 
-** __Kumpulkan URL yang tersedia -> Scrap Email dari masing-masing URL -> save -> Kumpulkan URL lain dari masing-masing URL tersebut__  **
+__Kumpulkan URL yang tersedia -> Scrap Email dari masing-masing URL -> save -> Kumpulkan URL lain dari masing-masing URL tersebut__
 
 Dan script yang saya gunakan untuk scraping kurang lebih seperti berikut :
 
-{% highlight python linenos %}
+{% highlight python linenos %} 
 def fetch_mail(self, url):
         ' Fetch the available mail in web page '
         regex = re.compile(r'([a-zA-Z0-9+._-]+@[a-zA-Z0-9._-]+\.[a-zA-Z0-9_-]+)')
@@ -47,7 +47,7 @@ def fetch_mail(self, url):
                         'in', self.GREEN + '{}'.format(url)
                     )
                     self.save_mail(mail)
-{% endhighlight %}
+{% endhighlight %} 
 
 ## Preview
 
@@ -55,4 +55,4 @@ Untuk Preview tools nya seperti berikut :
 
 [![asciicast](https://asciinema.org/a/x9hPl7H4X7r2tbGDoJmpay252.svg)](https://asciinema.org/a/x9hPl7H4X7r2tbGDoJmpay252)
 
-Untuk tools-nya, langsung cek github saya di bagian footer :D
+Untuk tools-nya, langsung cek github saya [di sini](https://github.com/relarizky/mail-harvest).
