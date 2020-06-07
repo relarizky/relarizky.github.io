@@ -3,8 +3,8 @@ layout: post
 title: Mail Harvesting With Python
 subtitle: Crawl and Collect Email From A Website 
 cover-img: /assets/img/posts/thumbnail/mail-harvest.png
-#gh-repo: relarizky/mail-harvest
-#gh-badges: [fork, follow]
+gh-repo: relarizky/mail-harvest
+gh-badges: [fork, follow]
 tags: [programming, python]
 comments: true
 ---
@@ -49,6 +49,7 @@ def fetch_mail(self, url):
                     self.save_mail(mail)
 ```
 
+
 ## Preview
 
 Untuk Preview tools nya seperti berikut :
@@ -56,3 +57,4 @@ Untuk Preview tools nya seperti berikut :
 [![asciicast](https://asciinema.org/a/x9hPl7H4X7r2tbGDoJmpay252.svg){: .mx-auto.d-block :}](https://asciinema.org/a/x9hPl7H4X7r2tbGDoJmpay252)
 
 Untuk tools-nya, langsung cek github saya [di sini](https://github.com/relarizky/mail-harvest).
+
