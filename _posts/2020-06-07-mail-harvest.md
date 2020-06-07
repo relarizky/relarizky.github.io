@@ -15,7 +15,7 @@ So, kali ini gue akan kasih tau cara mengumpulkan email yang tersedia dari sebua
 
 **Mail Harvesting** adalah proses mengumpulkan daftar alamat email, biasanya untuk keperluan _spamming_. Proses ini dapat menggunakan berbagai teknik, salah satu nya yaitu _Crawling_.
 
-**Crawling** sendiri merupakan sebuah istilah digunakan oleh bot search engine yang merujuk ke proses penelusuran website yang dilakukan oleh bot tersebut untuk tujuan pengideksan website.
+**Crawling** sendiri merupakan sebuah istilah digunakan oleh bot search engine yang merujuk ke proses penelusuran website yang dilakukan oleh bot tersebut untuk tujuan pengindeksan website.
 
 Tapi, kali ini kita akan melakukan _Crawling_ untuk mengumpulkan email yang tersedia dari sebuah website.
 
