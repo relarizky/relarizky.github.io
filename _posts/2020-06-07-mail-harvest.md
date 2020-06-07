@@ -27,7 +27,7 @@ __Kumpulkan URL yang tersedia -> Scrap Email dari masing-masing URL -> save -> K
 
 Dan script yang saya gunakan untuk scraping kurang lebih seperti berikut :
 
-{% highlight python linenos %} 
+```python
 def fetch_mail(self, url):
         ' Fetch the available mail in web page '
         regex = re.compile(r'([a-zA-Z0-9+._-]+@[a-zA-Z0-9._-]+\.[a-zA-Z0-9_-]+)')
@@ -47,7 +47,7 @@ def fetch_mail(self, url):
                         'in', self.GREEN + '{}'.format(url)
                     )
                     self.save_mail(mail)
-{% endhighlight %} 
+```
 
 ## Preview
 
