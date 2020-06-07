@@ -3,8 +3,8 @@ layout: post
 title: Mail Harvesting With Python
 subtitle: Crawl and Collect Email From A Website 
 cover-img: /assets/img/thumbnail/mail-harvest.png
-gh-repo: relarizky/mail-harvest
-gh-badges: [fork, follow]
+#gh-repo: relarizky/mail-harvest
+#gh-badges: [fork, follow]
 tags: [programming, python]
 comments: true
 ---
