@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Wanna know something about me?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Farel Ananda Rizky, 17 years old. I love Computer especially _Programming_ and _Security_. I can play guitar, play some jazz song (not instrumental), and most of pop song. I know _CAGED_ system and i know basic knowledge about _Music_ (a little bit).
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Some _Programming Languages_ i know are :
 
-What else do you need?
+- Python
+- PHP 
+- C++
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+About something i have made, you can look it up on my github [right here](https://github.com/relarizky).
