@@ -53,6 +53,6 @@ def fetch_mail(self, url):
 
 Untuk Preview tools nya seperti berikut :
 
-[![asciicast](https://asciinema.org/a/x9hPl7H4X7r2tbGDoJmpay252.svg)](https://asciinema.org/a/x9hPl7H4X7r2tbGDoJmpay252){: .mx-auto.md-block:}
+[![asciicast](https://asciinema.org/a/x9hPl7H4X7r2tbGDoJmpay252.svg){: .mx-auto.d-block :}](https://asciinema.org/a/x9hPl7H4X7r2tbGDoJmpay252)
 
 Untuk tools-nya, langsung cek github saya [di sini](https://github.com/relarizky/mail-harvest).
