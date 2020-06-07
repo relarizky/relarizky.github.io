@@ -1,22 +1,23 @@
 # --- Basic options --- #
 
 # Name of website
-title: My website
+title: Relarizky
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Someone who loves Computer, Guitar, and You
 
 # Your name to show in the footer
-author: Some Person
+author: farel ananda rizky
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Github: "https://github.com/relarizky"
+  #Resources:
+  # - Beautiful Jekyll: "https://beautifuljekyll.com"
+  # - Learn markdown: "https://www.markdowntutorial.com/"
+  #Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
