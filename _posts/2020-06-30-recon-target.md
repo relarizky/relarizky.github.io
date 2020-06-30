@@ -77,3 +77,19 @@ These are some preview of the page of user manager
 
 ![Edit User](/assets/img/post/recontarget-edituser.png)
 <p align='center'>Edit User</p>
+
+## Usage
+
+These are some preview of usage of this tool
+
+![List Target](/assets/img/post/recontarget-listtargetrawlist.png)
+<p align='center'>Raw Result of List Target</p>
+
+![Target Info](/assets/img/post/recontarget-targetrawinfo.png)
+<p align='center'>Target Raw Info</p>
+
+![Reverse IP](/assets/img/post/recontarget-revip.png)
+<p align='center'>Reverse IP</p>
+
+![Reverse IP Result](/assets/img/post/recontarget-revipresult.png)
+<p align='center'>Reverse IP Raw Result</p>
