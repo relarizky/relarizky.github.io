@@ -57,10 +57,10 @@ There are differences between __administrator__ and __user__ role.
 - __ordinary user__, this role is onyle able to perform recon and edit its own profile
 
 ![Administrator Page](/assets/img/post/recontarget-administrator.png)
-<p style='text-align:center'>Administrator</p>
+<p align='center'>Administrator</p>
 
 ![User Page](/assets/img/post/recontarget-user.png)
-<p style='text-align:center'>User</p>
+<p align='center'>User</p>
 
 ## Manage user
 
