@@ -82,6 +82,9 @@ These are some preview of the page of user manager
 
 These are some preview of usage of this tool
 
+![Add Target](/assets/img/post/recontarget-addtarget.png)
+<p align='center'>Add Target</p>
+
 ![List Target](/assets/img/post/recontarget-listtargetrawlist.png)
 <p align='center'>Raw Result of List Target</p>
 
