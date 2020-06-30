@@ -49,11 +49,31 @@ Then, you can log in to web application with these 2 default users
 1. sayang:sayang123 (administrator)
 2. hekmen:hekmen123 (ordinary user)
 
-## Manage user
+## Role List
 
 There are differences between __administrator__ and __user__ role.
 
 - __administrator__, this role is able to manage user (add, edit, delete) and update the web app
 - __ordinary user__, this role is onyle able to perform recon and edit its own profile
 
+![Administrator Page](/assets/img/post/recontarget-administrator.png)
+<p style='align:center'>Administrator</p>
 
+![User Page](/assets/img/post/recontarget-user.png)
+<p style='align:center'>User</p>
+
+## Manage user
+
+These are some preview of the page of user manager
+
+![User Manager](/assets/img/post/recontarget-manageuser.png)
+<p style='align:center'>Manage User</p>
+
+![Edit Profile](/assets/img/post/recontarget-editprofile.png)
+<p style='align:center'>Edit Profile</p>
+
+![Add User](/assets/img/post/recontarget-adduser.png)
+<p style='align:center'>Add User</p>
+
+![Edit User](/assets/img/post/recontarget-edituser.png)
+<p style='align:center'>Edit User</p>
