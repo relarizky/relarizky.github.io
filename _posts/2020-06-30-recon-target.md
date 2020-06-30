@@ -1,6 +1,7 @@
 ---
 layout: post
-title: ReconTarget - Web Based Reconnaisance Tool
+title: ReconTarget
+subtitle: Web Based Reconnaisance Tool
 cover-img: /assets/img/thumbnail/recon-target.png
 share-img: https://relarizky.github.io/assets/img/thumbnail/recon-target.png
 gh-repo: relarizky/ReconTarget
@@ -34,3 +35,25 @@ $ ./install.py
 ```
 
 ![Installation](/assets/img/post/recontarget-install.png)
+
+After installation, you can access this tool in http://127.0.0.1:5000 by typing this following
+
+```
+$ python3 run.py
+```
+
+![Login Page](/assets/img/post/recontarget-login.png)
+
+Then, you can log in to web application with these 2 default users
+
+1. sayang:sayang123 (administrator)
+2. hekmen:hekmen123 (ordinary user)
+
+## Manage user
+
+There are differences between __administrator__ and __user__ role.
+
+- __administrator__, this role is able to manage user (add, edit, delete) and update the web app
+- __ordinary user__, this role is onyle able to perform recon and edit its own profile
+
+
