@@ -67,13 +67,13 @@ There are differences between __administrator__ and __user__ role.
 These are some preview of the page of user manager
 
 ![User Manager](/assets/img/post/recontarget-manageuser.png)
-<p style='text-align:center'>Manage User</p>
+<p align='center'>Manage User</p>
 
 ![Edit Profile](/assets/img/post/recontarget-editprofile.png)
-<p style='text-align:center'>Edit Profile</p>
+<p align='center'>Edit Profile</p>
 
 ![Add User](/assets/img/post/recontarget-adduser.png)
-<p style='text-align:center'>Add User</p>
+<p align='center'>Add User</p>
 
 ![Edit User](/assets/img/post/recontarget-edituser.png)
-<p style='text-align:center'>Edit User</p>
+<p align='center'>Edit User</p>
