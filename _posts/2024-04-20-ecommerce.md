@@ -9,10 +9,11 @@ comments: true
 ---
 
 ## Pengertian E-Commerce
+
 E-Commerce secara umum dapat diartikan sebagai transaksi jual beli secara elektronik melalui media internet. Selain itu, E-commerce juga dapat diartikan sebagai suatu proses berbisnis dengan memakai teknologi elektronik yang menghubungkan antara perusahaan, konsumen dan masyarakat dalam bentuk transaksi elektronik dan pertukaran atau penjualan barang, servis, dan informasi secara elektronik. E-commerce memberikan berbagai macam kemudahan bagi konsumen, antara lain:
 
-1. Internet sebagai jaringan public yang sangat besar, cepat dan kemudahan dalam mengaksesnya.
-2. Transaksi melalui internet dapat dilakukan dengan relatif mudah untuk proses pengiriman dan penerimaan informasi.
+1. Internet memberikan kecepatan dan kemudahan dalam mengaksesnya.
+2. Transaksi dapat dilakukan dengan relatif mudah dalam pengiriman dan penerimaan informasi.
 
 Dengan menggunakan internet, proses jual beli dapat dilakukan dengan menghemat biaya dan waktu.
 
@@ -20,9 +21,9 @@ Dengan menggunakan internet, proses jual beli dapat dilakukan dengan menghemat b
 
 1. Cakupan yang luas
 2. Proses transaksi yang cepat
-3. E-Commerce dapat mendorong kreatifitas dari pihak penjual secara cepat dan tepat
-4. E-Commerce dapat menciptakan efesiensi yang tinggi, murah serta informatif.
-5. E-Commerce dapat meningkatkan kepuasan pelanggan, dengan pelayanan yang cepat, mudah, aman dan akurat.
+3. Dapat mendorong kreatifitas dari pihak penjual secara cepat dan tepat
+4. Dapat menciptakan efesiensi yang tinggi, murah serta informatif.
+5. Dapat meningkatkan kepuasan pelanggan, dengan pelayanan yang cepat, mudah, aman dan akurat.
 
 ## E-Commerce terbesar di Indonesia
 
