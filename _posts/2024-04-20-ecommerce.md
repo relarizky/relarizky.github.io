@@ -13,7 +13,7 @@ comments: true
 E-Commerce secara umum dapat diartikan sebagai transaksi jual beli secara elektronik melalui media internet. Selain itu, E-commerce juga dapat diartikan sebagai suatu proses berbisnis dengan memakai teknologi elektronik yang menghubungkan antara perusahaan, konsumen dan masyarakat dalam bentuk transaksi elektronik dan pertukaran atau penjualan barang, servis, dan informasi secara elektronik. E-commerce memberikan berbagai macam kemudahan bagi konsumen, antara lain:
 
 1. Internet memberikan kecepatan dan kemudahan dalam mengaksesnya.
-2. Transaksi dapat dilakukan dengan relatif mudah dalam pengiriman dan penerimaan informasi.
+2. Transaksi dapat dilakukan relatif lebih mudah.
 
 Dengan menggunakan internet, proses jual beli dapat dilakukan dengan menghemat biaya dan waktu.
 
