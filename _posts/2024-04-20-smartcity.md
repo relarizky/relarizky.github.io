@@ -8,7 +8,7 @@ tags: [general]
 comments: true
 ---
 
-## Pengertian Smartcity atau Kota Cerdas
+## Pengertian Smartcity
 
 **Smartcity** atau Kota Cerdas merupakan kota yang menggunakan teknologi digital untuk meningkatkan performance-nya, mengurangi biaya dan pemakaian konsumsi, serta untuk terlibat lebih aktif dan efektif dengan warganya. Kota cerdas mengintegrasikan teknologi informasi dan komunikasi dalam tata kelola sehari-hari dengan tujuan untuk mempertinggi efisiensi, memperbaiki pelayanan publik, dan meningkatkan kesejahteraan dan kenyamanan warganya. Singkatnya, Kota Cerdas ini merupakan sebuah konsep kota yang memadukan *Teknologi Informasi* untuk membantu warga nya menjalankan roda kehidupan secara lebih efisien dengan memanfaatkan teknologi.
  
