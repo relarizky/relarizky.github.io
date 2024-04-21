@@ -8,6 +8,10 @@ tags: [general]
 comments: true
 ---
 
+## Pengertian Smartcity
+
+**Smartcity** atau Kota Cerdas merupakan kota yang menggunakan teknologi digital untuk meningkatkan performance-nya, mengurangi biaya dan pemakaian konsumsi, serta untuk terlibat lebih aktif dan efektif dengan warganya. Kota cerdas mengintegrasikan teknologi informasi dan komunikasi dalam tata kelola sehari-hari dengan tujuan untuk mempertinggi efisiensi, memperbaiki pelayanan publik, dan meningkatkan kesejahteraan warga. Singkatnya, Kota Cerdas ini merupakan sebuah konsep kota dengan memadukan teknologi dalam berbagai aspek untuk meningkatkan, memperbaiki maupun menambah efisiensi berbagai macam layanan publik di kota tersebut.
+
 So, kali ini gue akan kasih tau cara mengumpulkan email yang tersedia dari sebuah website dengan menggunakan script sederhana yang gue buat dengan bahasa pemrograman **Python**.
 
 ## Apa itu Mail Harvesting ?
