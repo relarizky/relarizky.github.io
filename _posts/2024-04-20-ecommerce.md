@@ -8,29 +8,52 @@ tags: [general]
 comments: true
 ---
 
-So, kali ini gue akan kasih tau cara mengumpulkan email yang tersedia dari sebuah website dengan menggunakan script sederhana yang gue buat dengan bahasa pemrograman **Python**.
+## Pengertian E-Commerce
+E-Commerce secara umum dapat diartikan sebagai transaksi jual beli secara elektronik melalui media internet. Selain itu, E-commerce juga dapat diartikan sebagai suatu proses berbisnis dengan memakai teknologi elektronik yang menghubungkan antara perusahaan, konsumen dan masyarakat dalam bentuk transaksi elektronik dan pertukaran atau penjualan barang, servis, dan informasi secara elektronik. E-commerce memberikan berbagai macam kemudahan bagi konsumen, antara lain:
 
-## Apa itu Mail Harvesting ?
+1. Internet sebagai jaringan public yang sangat besar, cepat dan kemudahan dalam mengaksesnya.
+2. Transaksi melalui internet dapat dilakukan dengan relatif mudah untuk proses pengiriman dan penerimaan informasi.
 
-**Mail Harvesting** adalah proses mengumpulkan daftar alamat email, biasanya untuk keperluan _spamming_. Proses ini dapat menggunakan berbagai teknik, salah satu nya yaitu _Crawling_.
+Dengan menggunakan internet, proses jual beli dapat dilakukan dengan menghemat biaya dan waktu.
 
-**Crawling** sendiri merupakan sebuah istilah digunakan oleh bot search engine yang merujuk ke proses penelusuran website yang dilakukan oleh bot tersebut untuk tujuan pengindeksan website.
+## Faktor lain yang mendukung E-Commerce
 
-Tapi, kali ini kita akan melakukan _Crawling_ untuk mengumpulkan email yang tersedia dari sebuah website.
+1. Cakupan yang luas
+2. Proses transaksi yang cepat
+3. E-Commerce dapat mendorong kreatifitas dari pihak penjual secara cepat dan tepat
+4. E-Commerce dapat menciptakan efesiensi yang tinggi, murah serta informatif.
+5. E-Commerce dapat meningkatkan kepuasan pelanggan, dengan pelayanan yang cepat, mudah, aman dan akurat.
 
-## Cara Kerja
+## E-Commerce terbesar di Indonesia
 
-Sebenernya cara kerja program ini cukup sederhana :
+Pada kuartal I tahun 2022, Shopee dan Tokopedia masih menjadi pemimpin bagi pasar e-commerce di Indonesia. Menurut data iPrice, jumlah pengunjung Tokopedia baik melalui seluler maupun desktop pada kuartal I 2022 rata-rata mencapai 157,2 juta orang. Sementara pengunjung Shopee tercatat sebanyak 132,8 juta orang.
 
-__Kumpulkan URL yang tersedia -> Scrap Email dari masing-masing URL -> save -> Kumpulkan URL lain dari masing-masing URL tersebut__
+![Biggest E-Commerce](/assets/img/post/article-ecommerce-olshops.png)
 
-Dan script yang saya gunakan untuk scraping kurang lebih seperti berikut :
+Pengunjung Tokopedia tersebut mengalami peningkatan sebesar 5,1% dari kuartal IV tahun 2021 yang sebelumnya tercatat sebanyak 149,6 juta kunjungan. Peningkatan ini juga terjadi pada aplikasi e-commerce Shopee yang tumbuh sebesar 0,6% di mana jumlah pengunjung pada kuartal sebelumnya tercatat 131,9 juta orang.
 
-## Preview
+Selanjutnya, Lazada yang tadinya berada di posisi empat naik menjadi posisi tiga dengan menggeser Bukalapak. Kedua e-commerce adalah secara berurutan memiliki rata-rata pengunjung sebesar 24,7 juta dan 23,1 juta orang.
 
-Untuk Preview tools nya seperti berikut :
+Penurunan posisi juga terjadi pada Blibli yang turun ke posisi enam, sedangkan Orami naik ke peringkat lima. Ralali juga mengalami penurunan ke posisi tujuh dan Zalora mengalami peningkatan ke posisi delapan.
 
-[![asciicast](https://asciinema.org/a/x9hPl7H4X7r2tbGDoJmpay252.svg){: .mx-auto.d-block :}](https://asciinema.org/a/x9hPl7H4X7r2tbGDoJmpay252)
+## Sistem pembayaran E-Commerce di Indonesia
 
-Untuk tools-nya, langsung cek github saya [di sini](https://github.com/relarizky/mail-harvest).
+Berikut beberapa sistem pembayaran yang biasanya didukung dalam proses pembelian melalui E-Commerce di Indonesia :
+- Direct debit
+- Bank Virtual Account
+- E-Wallet atau E-Money
+- QRIS
 
+## Contoh penggunaan E-Commerce
+
+Berikut contoh cara berbelanja online melalui salah satu E-Commerce, yaitu Shopee.
+1. Buka halaman produk yang ingin dibeli
+2. Pilih **Beli Sekarang**, dan tentukan opsi variasi pilihan (jika ada)
+3. Selanjutnya, kamu bisa pilih **Opsi Pengiriman** yang diinginkan
+4. Gunakan **Voucher Shopee** dan **Koin Shopee**
+5. Pilih **Metode Pembayaran** yang diinginkan, lalu klik **Buat Pesanan**.
+
+## Sumber
+- [Ketahui Perkembangan E-commerce di Indonesia: Pengertian, Jenis, dan Manfaatnya](https://developers.bri.co.id/id/news/ketahui-perkembangan-e-commerce-di-indonesia-pengertian-jenis-dan-manfaatnya)
+- [Apa Itu E-Commerce](https://www.unpas.ac.id/apa-itu-e-commerce/)
+- [Ingin Tahu Cara Belanja di Shopee? Yuk, Ikuti Langkahnya!](https://shopee.co.id/inspirasi-shopee/ingin-tahu-cara-belanja-di-shopee-yuk-ikuti-langkahnya/)
